@@ -30,8 +30,8 @@ What's your name?
 To ensure all your mail is forwarded, use your name as it 
 appears on your government-issued photo ID.
 Do you go by an alternate name?
-If you use an alternate name, such as a pen name, nickname, or 
-an adopted Western name, list them as additional people.
+If you use any alternate names, such as a pen name, nickname,           - flinch, specificity, unsure of meaning
+or an adopted Western name, list them as additional people.
 
 First name
 Middle name (if any)
@@ -39,7 +39,7 @@ Last name
 
 
 Is anyone else going with you? 
-You can add up to 7 other people. Enter their full legal names 
+You can add up to 7 more people. Enter their full legal names 
 and any alternate names they may use.
 
 + Add a person (x remaining)
@@ -52,18 +52,18 @@ Back
 ======== WHERE ========
 
 
-Is this a temporary move?                                               - circularly reverting to earlier phrasing 
-                                                                        - asking here instead of bottom s/b clearer
-For example, you're relocating for school or work, but                  - covers students, contractors, but not snowbirds
-returning.                                                              - landing page mentions "temporary relocation"
+Is this a temporary move?
+
+For example, you're relocating for school or work, but
+returning.
 Yes
 No
 
 
-Where are we delivering your mail now?                                  - VT found "where is it going?" strange phrasing
+Where are we delivering your mail now?
 Address
 
-Where should we forward your mail?                                      - key word change: deliver to forward
+Where should we forward your mail?
 Country
 Address
 
@@ -74,22 +74,22 @@ Back
 
 ======== WHEN ========
 
-                                                                        - addresses VT's issues with 'how much time do you need'
-For how long should we forward your mail?                               - swapped positions w next Q to make dynamic summary's  
-                                                                          appearance occur immediately below the interaction point
-If you've missed notifying anyone, a year is often enough time          - answers question about control over duration (since 2 ops)
-to catch mail from seasonal or annual senders. You can also             - explains benefits of default 12 mos 
+
+How long should we forward your mail for?
+
+A year is often enough time to catch mail from seasonal or              - rephrase to start with "a year"
+annual senders you may have missed notifying. You can also              - RC: phrasing feels less awkward
 extend the service at any time.                                         - debate over starting with "a year" for emphasis vs first 
                                                                           clause at end
 Duration
-1 Year 
-4 Months
+12 months
+4 months
 
 
 When should we start?
 Start date (YYYY-MM-DD)
 
-We will forward your mail between January 8, 2018 and January           - same format as on confirmation
+We will forward your mail between January 8, 2018 and January
 7, 2019.
 
 Continue 
@@ -108,13 +108,13 @@ Want us to help you notify others?
 
 We can update other organizations about your move.
 
-Who can be notified?
-
+Who can be notified?                                                    - can't appear between pay template and CTA
+                                                                        - placement here feels like incurs extra cost
 Eligible organizations must already have both your name and 
 previous address on file, and they must agree to use your new 
 address only to update their customer records.
 
-To be safe, you should still notify all of your contacts about          - merge dark patterns
+To be safe, you should still notify all of your contacts about
 your move.
 
   Update other eligible organizations
