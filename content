@@ -100,16 +100,13 @@ Back
 ======== PAY ========
 
 
-How will you pay?
-[template]
+Want us to help you notify others?                                      - put before to keep in flow
+                                                                        - pay portion not aligned w right summary; it's OK
+As a courtesy, we can update other organizations about your             - it's free
+move.
 
+Who can be notified? 
 
-Want us to help you notify others?
-
-We can update other organizations about your move.
-
-Who can be notified?                                                    - can't appear between pay template and CTA
-                                                                        - placement here feels like incurs extra cost
 Eligible organizations must already have both your name and 
 previous address on file, and they must agree to use your new 
 address only to update their customer records.
@@ -120,6 +117,10 @@ your move.
   Update other eligible organizations
 
   Everyone is moving from this address
+
+
+How will you pay?
+[template]
 
 
 Place my order
