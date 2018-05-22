@@ -1,13 +1,17 @@
 ======== TRIAGE ========
 
 
-Whose mail is being forwarded? 
+What type of mail are you forwarding?                                   - rephrase to accommodate thirdparty option
 
-Me and my household
-This includes mail for you and up to 7 other people.
+Residential
+(A small bungalow, representing a residential mail destination.)
 
-My business or organization
-...
+Business
+(A commercial building, representing a business mail destination.)
+
+Are you forwarding mail on someone’s behalf?
+Yes, I am only purchasing this service for someone I can legally 
+speak for. I am not forwarding my own mail. 
 
 
 Terms and conditions
@@ -46,6 +50,9 @@ and any alternate names they may use.
 
 Continue
 Back
+
+
+Sorry, this name isn't allowed. Please try again. 
 
 
 *Name 2* has been removed.                                              - rem vs del; rem from list is less harsh
